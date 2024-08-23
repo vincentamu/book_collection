@@ -1,2 +1,2 @@
 # book_collection
-Hello World!
+Hello World! This is a new file!
